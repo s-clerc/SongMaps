@@ -3,7 +3,7 @@
 #LANGUAGE:English
 #MP3:rainbow1.mp3
 #COVER:RaiNBOW AFFaiR.jpg
-#VIDEO:rainbow.mpg
+#VIDEO:rainbow.mp4
 #VIDEOGAP:0
 #CREATOR:Arikarin
 #BPM:640
