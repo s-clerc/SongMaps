@@ -1,0 +1,70 @@
+#TITLE:Pen Pineapple Apple Pen
+#ARTIST:Pikataro
+#LANGUAGE:English
+#MP3:PPAP.mp3
+#COVER:PPAP.jpg
+#VIDEO:PPAP.mp4
+#BPM:263.15
+#CREATOR:Arikarin & Mariko
+#GAP:8927
+: 0 2 0 PEE
+: 3 2 0  PEE
+: 7 3 0  EY
+: 11 4 0  PEE
+- 77
+: 142 4 0 I
+: 148 2 0  have
+: 151 2 0  a
+: 155 9 0  pen,
+: 173 4 0  I
+: 178 4 0  have
+: 183 1 0  a
+: 186 2 0  a
+: 189 5 0 pple
+- 203
+: 215 9 0 Uh!
+: 231 3 0  A
+: 236 4 0 pple
+: 244 12 0  pen!
+- 256
+: 267 3 0 I
+: 271 3 0  have
+: 275 3 0  a
+: 279 5 0  pen,
+: 297 3 0  I
+: 300 5 0  have
+: 306 4 0  pine
+: 310 3 0 a
+: 314 4 0 pple
+- 327
+: 340 5 0 Uh!
+: 355 5 0  Pine
+: 360 3 0 a
+: 363 4 0 pple
+: 368 10 0  pen!
+- 377
+: 386 5 0 A
+: 391 5 0 pple
+: 400 8 0  pen,
+: 416 5 0  pine
+: 422 4 0 a
+: 426 3 0 pple
+: 430 15 0  pen
+- 448
+: 465 10 0 Uh!
+: 480 4 0  Pen
+: 484 4 0  pine
+: 489 2 0 a
+: 491 5 0 pple
+: 497 2 0  a
+: 500 3 0 pple
+: 504 7 0  pen
+- 556
+: 604 4 0 Pen
+: 608 4 0  pine
+: 612 4 0 a
+: 616 3 0 pple
+: 620 3 0  a
+: 623 3 0 pple
+: 629 6 0  pen 
+E
